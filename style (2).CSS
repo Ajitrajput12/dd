@@ -1,0 +1,31 @@
+body{
+	background-color: hotpink;
+	color: lightblue;
+	text-align: center;
+	font-family: sans-serif;
+	border: 9px solid darkred;
+	
+
+}
+p{
+	margin-bottom: 34px;
+	background-color: blue;
+	margin-top: 10PX;
+
+
+}
+IMG{
+	display: block;
+	margin: auto;
+	width: 50%;
+	height: auto;
+	border-radius: 9PX;
+	opacity: 0.8;
+	margin-bottom: 20PX;
+
+
+}
+H1{
+	margin-bottom: 20PX;
+
+}
